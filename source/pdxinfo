@@ -1,0 +1,7 @@
+name=run duck!
+author=Larz Conwell
+description=A duck runs towards a pond.
+bundleID=com.larz.run_duck
+version=0.0.1
+buildNumber=1
+imagePath=images/system
